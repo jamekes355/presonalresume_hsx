@@ -6,4 +6,4 @@ import router from './router'
 const app = createApp(App)
 
 app.use(router) // 使用路由
-app.mount('#app')303
+app.mount('#app')
