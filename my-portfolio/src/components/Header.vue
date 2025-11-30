@@ -14,11 +14,12 @@
           <li><a href="#about">简介</a></li>
           <li><a href="#services">教育经历</a></li>
           <li><a href="#portfolio">个人技能</a></li>
-          <li class="dropdown"><a href="#"><span>个人相册</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+          <li class="dropdown"><a href="#gallery"><span>个人相册</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="#">自拍</a></li>
-              <li><a href="#">美食</a></li>
-              <li><a href="#">风景</a></li>
+              <li><a href="#gallery">自拍</a></li>
+              <li><a href="#gallery">美食</a></li>
+              <li><a href="#gallery">风景</a></li>
+              <li><a href="#gallery">活动</a></li>
             </ul>
           </li>
           <li><a href="#contact">Contact</a></li>
