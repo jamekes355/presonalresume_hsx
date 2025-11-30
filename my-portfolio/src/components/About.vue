@@ -12,66 +12,26 @@
               <img src="/assets/img/profile-img.jpg" class="img-fluid" alt="">
             </div>
             <div class="col-lg-7 about-info">
-              <p><strong>Name: </strong> <span>Morgan Freeman</span></p>
-              <p><strong>Profile: </strong> <span>full stack developer</span></p>
-              <p><strong>Email: </strong> <span>contact@example.com</span></p>
-              <p><strong>Phone: </strong> <span>(617) 557-0089</span></p>
+              <p><strong>姓名: </strong> <span>何思响</span></p>
+              <p><strong>身份: </strong> <span>湖南师范大学 大三学生</span></p>
+              <p><strong>专业: </strong> <span>教育技术学</span></p>
+              <p><strong>邮箱: </strong> <span>contact@example.com</span></p>
+              <p><strong>电话: </strong> <span>(617) 557-0089</span></p>
             </div>
-          </div>
-
-          <div class="skills-content skills-animation">
-
-            <h5>Skills</h5>
-
-            <div class="progress">
-              <span class="skill"><span>HTML</span> <i class="val">100%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div><!-- End Skills Item -->
-
-            <div class="progress">
-              <span class="skill"><span>CSS</span> <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div><!-- End Skills Item -->
-
-            <div class="progress">
-              <span class="skill"><span>JavaScript</span> <i class="val">75%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div><!-- End Skills Item -->
-
-            <div class="progress">
-              <span class="skill"><span>Photoshop</span> <i class="val">55%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div><!-- End Skills Item -->
-
           </div>
         </div>
 
         <div class="col-md-6">
           <div class="about-me">
-            <h4>About me</h4>
+            <h4>个人简介</h4>
             <p>
-              Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id
-              imperdiet et, porttitor
-              at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla
-              porttitor accumsan tincidunt.
+              我是一名来自湖南师范大学教育技术学专业的大三学生。我对计算机科学充满热情，尤其是在 Web 前端开发领域。
             </p>
             <p>
-              Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis
-              porttitor volutpat. Vestibulum
-              ac diam sit amet quam vehicula elementum sed sit amet dui. porttitor at sem.
+              我喜欢探索新技术，追求代码的优雅和用户体验的极致。在校期间，我积极参与各类项目实践，不断提升自己的编程能力和解决问题的能力。
             </p>
             <p>
-              Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-              Nulla porttitor accumsan
-              tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+              我的目标是成为一名优秀的全栈开发工程师，用技术创造价值。
             </p>
           </div>
         </div>
