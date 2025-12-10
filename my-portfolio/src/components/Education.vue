@@ -31,12 +31,11 @@
               <i class="bi bi-award"></i>
             </div>
             <a href="#" class="stretched-link">
-              <h3>学术奖项</h3>
+              <h3>学术经历</h3>
             </a>
-            <p>多次获得校级奖学金，并在各类学科竞赛中取得优异成绩。</p>
+            <p>积极参加教授的科研项目</p>
             <ul>
-              <li>校级一等奖学金 (2023-2024)</li>
-              <li>大学生计算机设计大赛 省级二等奖</li>
+              <li>校级三等奖学金 (2025)</li>
             </ul>
           </div>
         </div><!-- End Service Item -->
@@ -47,9 +46,9 @@
               <i class="bi bi-activity"></i>
             </div>
             <a href="#" class="stretched-link">
-              <h3>社团活动</h3>
+              <h3>志愿活动</h3>
             </a>
-            <p>积极参与学校社团活动，担任技术部部长，组织多次技术分享会。</p>
+            <p>积极参与学校社团活动，志愿活动。</p>
           </div>
         </div><!-- End Service Item -->
 

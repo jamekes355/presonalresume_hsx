@@ -15,8 +15,8 @@
               <p><strong>姓名: </strong> <span>何思响</span></p>
               <p><strong>身份: </strong> <span>湖南师范大学 大三学生</span></p>
               <p><strong>专业: </strong> <span>教育技术学</span></p>
-              <p><strong>邮箱: </strong> <span>contact@example.com</span></p>
-              <p><strong>电话: </strong> <span>(617) 557-0089</span></p>
+              <p><strong>邮箱: </strong> <span>2656604782@qq.com</span></p>
+              <p><strong>电话: </strong> <span>19573521186</span></p>
             </div>
           </div>
         </div>

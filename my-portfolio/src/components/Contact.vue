@@ -26,7 +26,7 @@
               <i class="bi bi-telephone flex-shrink-0"></i>
               <div>
                 <h3>电话</h3>
-                <p>+86 138 0000 0000</p>
+                <p>19573521186</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -34,7 +34,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h3>邮箱</h3>
-                <p>contact@example.com</p>
+                <p>2656604782@qq.com</p>
               </div>
             </div><!-- End Info Item -->
 
