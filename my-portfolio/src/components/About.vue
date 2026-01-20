@@ -9,7 +9,7 @@
 
           <div class="row justify-content-between gy-4">
             <div class="col-lg-5">
-              <img src="/assets/img/profile-img.jpg" class="img-fluid" alt="">
+              <img src="/public/assets/img/selfs/id.jpg" class="img-fluid" alt="">
             </div>
             <div class="col-lg-7 about-info">
               <p><strong>姓名: </strong> <span>何思响</span></p>
@@ -31,7 +31,7 @@
               我喜欢探索新技术，追求代码的优雅和用户体验的极致。在校期间，我积极参与各类项目实践，不断提升自己的编程能力和解决问题的能力。
             </p>
             <p>
-              我的目标是成为一名优秀的全栈开发工程师，用技术创造价值。
+              我的目标是成为一名善于运用技术的信息技术教师，用技术创造价值。
             </p>
           </div>
         </div>
