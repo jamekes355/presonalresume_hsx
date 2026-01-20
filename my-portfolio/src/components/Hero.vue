@@ -2,7 +2,7 @@
   <!-- Hero Section -->
   <section id="hero" class="hero section dark-background">
 
-    <img src="/assets/img/西装淡蓝.png" alt="" data-aos="fade-in">
+    <img src="/assets/img/西装淡蓝.jpg" alt="" data-aos="fade-in">
 
     <div class="container d-flex flex-column align-items-center justify-content-center text-center" data-aos="fade-up" data-aos-delay="100">
             <h2>我是何思响</h2>
